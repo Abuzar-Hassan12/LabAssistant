@@ -1,0 +1,145 @@
+Monday
+12:00 AM :  Charles has begun lab hours
+12:00 AM :  Charles has ended lab hours
+12:00 AM :  Sooraya has arrived in the TA#007
+12:02 AM :  Sooraya has borrowed the laptop 23662766 and moved to the TA line
+12:02 AM :  Sooraya is getting help from the Charles
+12:07 AM :  Sooraya had no more question to answer and move to the laptop line
+12:09 AM :  Sooraya has returned the laptop 23662766 and went home HAPPY
+12:11 AM :  Alisa has arrived in the TA#007
+12:13 AM :  Alisa has borrowed the laptop 23662766 and moved to the TA line
+12:13 AM :  Alisa is getting help from the Charles
+12:17 AM :  Selene has arrived in the TA#007
+12:18 AM :  Alisa had no more question to answer and move to the laptop line
+12:19 AM :  Selene has borrowed the laptop 70571329 and moved to the TA line
+12:19 AM :  Selene is getting help from the Charles
+12:20 AM :  Alisa has returned the laptop 23662766 and went home HAPPY
+12:24 AM :  Selene had no more question to answer and move to the laptop line
+12:26 AM :  Selene has returned the laptop 70571329 and went home HAPPY
+12:49 AM :  Rita has arrived in the TA#007
+12:51 AM :  Rita has borrowed the laptop 70571329 and moved to the TA line
+12:51 AM :  Rita is getting help from the Charles
+12:56 AM :  Rita had no more question to answer and move to the laptop line
+12:58 AM :  Rita has returned the laptop 70571329 and went home HAPPY
+1:46 AM :  Cecilia has arrived in the TA#007
+1:48 AM :  Cecilia has borrowed the laptop 70571329 and moved to the TA line
+1:48 AM :  Cecilia is getting help from the Charles
+1:49 AM :  Sean has arrived in the TA#007
+1:51 AM :  Sean has borrowed the laptop 23662766 and moved to the TA line
+1:53 AM :  Cecilia had no more question to answer and move to the laptop line
+1:53 AM :  Sean is getting help from the Charles
+1:54 AM :  Alexander has arrived in the TA#007
+1:55 AM :  Cecilia has returned the laptop 70571329 and went home HAPPY
+1:56 AM :  Alexander has borrowed the laptop 70571329 and moved to the TA line
+1:58 AM :  Sean had no more question to answer and move to the laptop line
+1:58 AM :  Alexander is getting help from the Charles
+2:00 AM :  Sean has returned the laptop 23662766 and went home HAPPY
+2:03 AM :  Alexander had no more question to answer and move to the laptop line
+2:05 AM :  Alexander has returned the laptop 70571329 and went home HAPPY
+2:34 AM :  Neal has arrived in the TA#007
+2:36 AM :  Neal has borrowed the laptop 70571329 and moved to the TA line
+2:36 AM :  Neal is getting help from the Charles
+2:41 AM :  Neal had no more question to answer and move to the laptop line
+2:43 AM :  Neal has returned the laptop 70571329 and went home HAPPY
+2:59 AM :  Nicholas has arrived in the TA#007
+3:00 AM :  Nicholas never even got a laptop and went home FRUSTRATED
+Lab Summary:
+The TA Lab was open for 3 hours and 1 minutes.
+9 students visited the lab.Out of those students, only 8 left happy. The remaining left frustrated.
+Lesson Learned : Do not procrastinate!Start programs early!
+Tuesday
+12:00 AM :  Charles has begun lab hours
+1:58 AM :  Christy has arrived in the TA#007
+2:00 AM :  Charles has ended lab hours
+2:00 AM :  Max has begun lab hours
+2:00 AM :  Christy has borrowed the laptop -1 and moved to the TA line
+2:00 AM :  Christy is getting help from the Max
+2:05 AM :  Christy had no more question to answer and move to the laptop line
+2:07 AM :  Christy has returned the laptop -1 and went home HAPPY
+2:09 AM :  Julian has arrived in the TA#007
+2:11 AM :  Julian has borrowed the laptop -1 and moved to the TA line
+2:11 AM :  Julian is getting help from the Max
+2:12 AM :  Amara has arrived in the TA#007
+2:14 AM :  Amara has borrowed the laptop 70571329 and moved to the TA line
+2:16 AM :  Julian had no more question to answer and move to the laptop line
+2:16 AM :  Amara is getting help from the Max
+2:18 AM :  Julian has returned the laptop -1 and went home HAPPY
+2:21 AM :  Amara had no more question to answer and move to the laptop line
+2:23 AM :  Amara has returned the laptop 70571329 and went home HAPPY
+2:26 AM :  Laura has arrived in the TA#007
+2:27 AM :  Nathaniel has arrived in the TA#007
+2:28 AM :  John has arrived in the TA#007
+2:28 AM :  Laura has borrowed the laptop 70571329 and moved to the TA line
+2:28 AM :  Laura is getting help from the Max
+2:29 AM :  Nathaniel has borrowed the laptop -1 and moved to the TA line
+2:30 AM :  John has borrowed the laptop 23662766 and moved to the TA line
+2:33 AM :  Laura had no more question to answer and move to the laptop line
+2:33 AM :  Nathaniel is getting help from the Max
+2:34 AM :  Hisako has arrived in the TA#007
+2:35 AM :  Laura has returned the laptop 70571329 and went home HAPPY
+2:36 AM :  Hisako has borrowed the laptop 70571329 and moved to the TA line
+2:38 AM :  Nathaniel had no more question to answer and move to the laptop line
+2:38 AM :  John is getting help from the Max
+2:40 AM :  Nathaniel has returned the laptop -1 and went home HAPPY
+2:43 AM :  John had no more question to answer and move to the laptop line
+2:43 AM :  Hisako is getting help from the Max
+2:45 AM :  John has returned the laptop 23662766 and went home HAPPY
+2:48 AM :  Hisako had no more question to answer and move to the laptop line
+2:50 AM :  Hisako has returned the laptop 70571329 and went home HAPPY
+3:51 AM :  David has arrived in the TA#007
+3:53 AM :  David has borrowed the laptop 70571329 and moved to the TA line
+3:53 AM :  David is getting help from the Max
+3:58 AM :  David had no more question to answer and move to the laptop line
+4:00 AM :  David has returned the laptop 70571329 and went home HAPPY
+Lab Summary:
+The TA Lab was open for 4 hours and 1 minutes.
+17 students visited the lab.Out of those students, only 16 left happy. The remaining left frustrated.
+Lesson Learned : Do not procrastinate!Start programs early!
+Wednesday
+12:00 AM :  Max has begun lab hours
+1:50 AM :  Arkady has arrived in the TA#007
+1:52 AM :  Arkady has borrowed the laptop 70571329 and moved to the TA line
+1:52 AM :  Arkady is getting help from the Max
+1:57 AM :  Arkady had no more question to answer and move to the laptop line
+1:59 AM :  Arkady has returned the laptop 70571329 and went home HAPPY
+2:00 AM :  Charles has begun lab hours
+2:04 AM :  Elizabeth has arrived in the TA#007
+2:06 AM :  Elizabeth has borrowed the laptop 70571329 and moved to the TA line
+2:06 AM :  Elizabeth is getting help from the Charles
+2:11 AM :  Elizabeth had no more question to answer and move to the laptop line
+2:12 AM :  James has arrived in the TA#007
+2:13 AM :  Elizabeth has returned the laptop 70571329 and went home HAPPY
+2:14 AM :  James has borrowed the laptop 70571329 and moved to the TA line
+2:14 AM :  James is getting help from the Charles
+2:19 AM :  James had no more question to answer and move to the laptop line
+2:21 AM :  James has returned the laptop 70571329 and went home HAPPY
+2:40 AM :  Emma has arrived in the TA#007
+2:42 AM :  Emma has borrowed the laptop 70571329 and moved to the TA line
+2:42 AM :  Emma is getting help from the Charles
+2:47 AM :  Emma had no more question to answer and move to the laptop line
+2:49 AM :  Sarah has arrived in the TA#007
+2:49 AM :  Emma has returned the laptop 70571329 and went home HAPPY
+2:51 AM :  Sarah has borrowed the laptop 70571329 and moved to the TA line
+2:51 AM :  Sarah is getting help from the Charles
+2:52 AM :  Madison has arrived in the TA#007
+2:54 AM :  Madison has borrowed the laptop 23662766 and moved to the TA line
+2:56 AM :  Sarah had no more question to answer and move to the laptop line
+2:56 AM :  Madison is getting help from the Charles
+2:58 AM :  Sarah has returned the laptop 70571329 and went home HAPPY
+3:00 AM :  Charles has ended lab hours
+3:01 AM :  Madison had no more question to answer and move to the laptop line
+3:03 AM :  Madison has returned the laptop 23662766 and went home HAPPY
+3:09 AM :  Amahl has arrived in the TA#007
+3:10 AM :  Kenuichio has arrived in the TA#007
+3:11 AM :  Amahl has borrowed the laptop 23662766 and moved to the TA line
+3:11 AM :  Amahl is getting help from the Charles
+3:12 AM :  Kenuichio has borrowed the laptop 70571329 and moved to the TA line
+3:16 AM :  Amahl had no more question to answer and move to the laptop line
+3:16 AM :  Kenuichio is getting help from the Charles
+3:18 AM :  Amahl has returned the laptop 23662766 and went home HAPPY
+3:21 AM :  Kenuichio had no more question to answer and move to the laptop line
+3:23 AM :  Kenuichio has returned the laptop 70571329 and went home HAPPY
+Lab Summary:
+The TA Lab was open for 4 hours and 0 minutes.
+25 students visited the lab.Out of those students, only 24 left happy. The remaining left frustrated.
+Lesson Learned : Do not procrastinate!Start programs early!
